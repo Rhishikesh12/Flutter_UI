@@ -1,17 +1,10 @@
-# flutter_ui
+A <b>Flutter UI</b> project.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Rhishikesh12/Flutter_UI/blob/main/assets/img/WhatsApp%20Image%202023-06-08%20at%2010.50.31%20AM.jpeg?raw=true" width="300" height="650"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_UI
+
+
